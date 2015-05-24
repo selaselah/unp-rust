@@ -1,0 +1,4 @@
+[package]
+name = "daytimetcpcli"
+version = "0.1.0"
+authors = ["winterdawn <selah@outlook.com>"]
